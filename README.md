@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Dai_hoc_Kinh_te_TPHCM.png/600px-Logo_Dai_hoc_Kinh_te_TPHCM.png" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_UEH_xanh.png/1200px-Logo_UEH_xanh.png" width="120">
 </p>
 
 <h2 align="center">PHÁT TRIỂN ỨNG DỤNG WEB - 25C1INF50901401</h2>
