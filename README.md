@@ -16,7 +16,7 @@
 
 ## GIỚI THIỆU ĐỒ ÁN
 - **Đề tài:** Trang web tin tức giải trí  
-- **Repository:** [Phát triển ứng dụng web](#)  
+- **Repository:** [Starbuzz-news](#)  
 - **Behance:** [Starbuzz Website](#)  
 - **Trang giới thiệu nhóm:** [Starbuzz](#)  
 
