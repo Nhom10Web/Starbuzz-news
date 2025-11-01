@@ -16,14 +16,13 @@
 
 ## GIỚI THIỆU ĐỒ ÁN
 - **Đề tài:** Trang web tin tức giải trí  
-- **Repository:** [Starbuzz-news](#)  
-- **Behance:** [Starbuzz Website](#)  
-- **Trang giới thiệu nhóm:** [Starbuzz](#)  
+- **Repository:** [StarZone](#)  
+- **Behance:** [Starzone Website](#)  
 
 ---
 
 ## CÔNG NGHỆ SỬ DỤNG
-- **Backend:** PHP, Laravel  
+- **Backend:** PHP  
 - **Frontend:** HTML, CSS, JavaScript, ReactJS, Redux, Ant Design, Tailwind CSS  
 - **Database:** MySQL  
 
